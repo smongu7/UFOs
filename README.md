@@ -13,5 +13,9 @@ A data journalist (Dana) is far enough into her career that she can choose the t
 If someone wants to look up UFO sightings, all they have to do is type in a date, city, state, country, and shape. (See Fig. 1)
 ![img](https://user-images.githubusercontent.com/94420548/159194590-05e927a1-13d2-497b-8e39-ca12fbba83f3.png)
 Fig. 1
+
+Additionally, if someone just wanted to see data about one specific criteria, they only need to type in data of that criteria, and they will get results. For example, if I was just curious about ufo sightings in Florida, I only need to type in "fl" to return any and all results specific to Florida, as seen in Fig. 2.
+![img2](https://user-images.githubusercontent.com/94420548/159196095-8aa26e0b-2a92-4b4d-9cbe-a5eb345e03f8.png)
+Fig. 2
 ## Summary
 One huge drawback is that the data is extremely limited. The data only ranges from the first to the 13th of January in 2010. Thus, my first recommendation to Dana would be to vastly expand her data. I would recommend two options to accomplish this. One option is to webscrape from a source that is continually or somewhat regularly updating new sightings that people are reporting.  Another option would be to gather data over a relatively recent 5 or 10 year period with all the ufo sightings recorded reported in the us during that time period. However, I'd highly recommend the webscrape option to keep her information up-to-date. Additionally, I would recommend making an option to search for a range of dates, instead of just one specific date. I would also ask Dana if she intends on using only data in the US. If so, I'd recommend eliminating the option to type in a country since she is only looking at US data. If she intends on using other countries' data as well, I would even more strongly encourage her to use the webscrape option. In that case, I would advise her to see if she can find a source that has reports of ufos from multiple countries.
